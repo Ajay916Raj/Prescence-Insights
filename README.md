@@ -1,5 +1,5 @@
-# Prescence-Insights
-Looking into the Prescence of employees at workplace based on metrics. 
+# Presence-Insights
+Looking into the presence of employees at workplace based on metrics. 
 
 ## Ask Phase:
 > What insights you were looking to gain?
